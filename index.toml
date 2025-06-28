@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "better-combat.pw.toml"
-hash = "bb5922458faf1503a68ede4a5147183e6789cd5d37fe2050dfa1a0cb86f65f9c"
-metafile = true
-
-[[files]]
 file = "minecolonies.pw.toml"
 hash = "c305351321ac451268a254bd18357f690b947bb7ade57b5ce3dfec78190787bc"
 metafile = true
