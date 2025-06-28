@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-neo-9.10.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/8866TcD4/wthit-neo-9.10.3.jar"
+hash-format = "sha512"
+hash = "1b7b54f9be768f7241ec85ec1c24ee60e668b030cac512505e1de4e498807636b3bbb721c31f447a5176a83b45e8d53e230bc40c59dfbe2f15782987229babf8"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "8866TcD4"

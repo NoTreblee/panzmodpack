@@ -1,0 +1,13 @@
+name = "bad packets"
+filename = "badpackets-neo-0.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/jyFCivlP/badpackets-neo-0.5.7.jar"
+hash-format = "sha512"
+hash = "58b1026bd15999fc3c7f4636fb0f5d0fe6f5e7a6b2d39eadaf40186327a7df983120c48fd438a7d6d783e8630b5ddbd4353f4f168b7efc7e970c6b056d20b28e"
+
+[update]
+[update.modrinth]
+mod-id = "ftdbN0KK"
+version = "jyFCivlP"

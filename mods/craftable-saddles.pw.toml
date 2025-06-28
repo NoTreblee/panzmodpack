@@ -1,0 +1,13 @@
+name = "Craftable Saddles"
+filename = "Craftable Saddles [1.20 All]-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d64effcb3d883b473a802814280b125971b83976"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594587
+project-id = 247093

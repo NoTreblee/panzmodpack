@@ -1,0 +1,13 @@
+name = "Serene Seasons"
+filename = "SereneSeasons-1.20.2-9.2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "deb3af39e6fc05d4851b846a7d51e068811a1be9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4910267
+project-id = 291874

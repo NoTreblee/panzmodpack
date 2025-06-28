@@ -1,0 +1,13 @@
+name = "Embeddium"
+filename = "embeddium-0.2.12+mc1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af11d466d25191612368b508a3d370c08b42a747"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4931291
+project-id = 908741

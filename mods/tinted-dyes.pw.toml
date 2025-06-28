@@ -1,0 +1,13 @@
+name = "Tinted Dyes"
+filename = "tinted_dyes-2.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8826443aae8bdd3d135fd10e1b12a81d8911dba8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6626790
+project-id = 1009078

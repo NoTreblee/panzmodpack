@@ -1,0 +1,13 @@
+name = "Athena"
+filename = "athena-neoforge-1.20.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8e53df4c7978361a99b495f117afb2775989565"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4884962
+project-id = 841890
