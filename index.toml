@@ -326,6 +326,18 @@ hash = "fff849ae1964b4ceeee5da5fe42ef3901fa4d40e70eb629da3c57efde6892fc7"
 metafile = true
 
 [[files]]
+file = "newmods/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "plugins/simple-voice-chat.pw.toml"
 hash = "85b3a65393902e6e0aa53a5759b55e5c92c99008f16c2c9597dccee59f068614"
 metafile = true
