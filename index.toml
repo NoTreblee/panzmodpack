@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ef63d97de11e605fb8cb4d6bf892eb6af5d2df2a4d8bedb0ad429f74bda84da"
+hash = "c305351321ac451268a254bd18357f690b947bb7ade57b5ce3dfec78190787bc"
 metafile = true
 
 [[files]]
@@ -329,14 +329,6 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "fff849ae1964b4ceeee5da5fe42ef3901fa4d40e70eb629da3c57efde6892fc7"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "plugins/simple-voice-chat.pw.toml"
