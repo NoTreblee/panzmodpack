@@ -36,11 +36,6 @@ hash = "73b446231107bc7df74e7c66fc4336bb5f0c970acfe52b055cb10e1088d18adc"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "bb5922458faf1503a68ede4a5147183e6789cd5d37fe2050dfa1a0cb86f65f9c"
-metafile = true
-
-[[files]]
 file = "mods/blockui.pw.toml"
 hash = "695b5ebbcb9a402cf9200de74984e419b0d26ae860c6b846f58e8a1675529781"
 metafile = true
